@@ -1,7 +1,6 @@
 ## About Me
 - 😎 Waranat Suttikarn (Aom Wara)
-- 👨‍💻 Agoda TH, DevSecOps Engineer
-- 👨‍💻 Admissions and Recruitment KMUTT, Tech Consultant
+- 👨‍💻 Developer @ Admissions and Recruitment KMUTT
 
 ## Our Works
 - aradmission.kmutt.ac.th
