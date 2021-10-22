@@ -6,4 +6,4 @@
 - aradmission.kmutt.ac.th
 
 ## Dev community 
-![์waranatcpe's github stats](https://github-readme-stats.vercel.app/api?username=waranatcpe)
+![์aomwara's github stats](https://github-readme-stats.vercel.app/api?username=aomwara)
