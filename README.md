@@ -15,12 +15,5 @@
 - sarathai.me
 - newacis-cupt-map.kmutt.me
 
-## KMUTT Public Blockchain (Development Test Network)
-- RPC: https://devnet.kmutt.me
-- ChainID: 1214
-- Symbol: $MOD
-- Block Explorer: https://modscan.kmutt.me
-- $MOD Faucet: https://faucet.kmutt.me
-
 ## Dev community 
 ![์aomwara's github stats](https://github-readme-stats.vercel.app/api?username=aomwara)
