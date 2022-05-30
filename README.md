@@ -1,13 +1,14 @@
 ## About Me
 - 😎 Waranat Suttikarn (Aom Wara)
-- 👨‍💻 Developer @ Admissions and Recruitment KMUTT
+- 🚀 Software Engineer @ SCB10X 
 
-## Our Works
-- aradmission.kmutt.ac.th
-- e-borrow.kmutt.me
-- app.kmutt.me
-- amsplus.kmutt.me
-- newacis-cupt-map.kmutt.me
+## Technology Stack
+![Truffle badge](https://img.shields.io/endpoint?color=green&style=for-the-badge&url=https%3A%2F%2Fbadge-endpoint.vercel.app%2Fapi%2Ftruffle)
+![Hardhat badge](https://img.shields.io/endpoint?color=purple&style=for-the-badge&url=https%3A%2F%2Fbadge-endpoint.vercel.app%2Fapi%2Fhardhat)
+![Solidity badge](https://img.shields.io/endpoint?color=%23f5f5f5&style=for-the-badge&url=https%3A%2F%2Fbadge-endpoint.vercel.app%2Fapi%2Fsolidity)
+![Web3js badge](https://img.shields.io/endpoint?color=%23Ffcd91&style=for-the-badge&url=https%3A%2F%2Fbadge-endpoint.vercel.app%2Fapi%2Fweb3.js)
+![ethersjs badge](https://img.shields.io/endpoint?color=%23d0efff&style=for-the-badge&url=https%3A%2F%2Fbadge-endpoint.vercel.app%2Fapi%2Fethers.js)
+![nextjs_badge](https://img.shields.io/endpoint?color=%23ffffff&style=for-the-badge&url=https%3A%2F%2Fbadge-endpoint.vercel.app%2Fapi%2Fnext.js)
 
 ## Dev community 
 ![์aomwara's github stats](https://github-readme-stats.vercel.app/api?username=aomwara)
