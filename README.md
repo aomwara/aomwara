@@ -11,4 +11,6 @@
 ![nextjs_badge](https://img.shields.io/endpoint?color=%23ffffff&style=for-the-badge&url=https%3A%2F%2Fbadge-endpoint.vercel.app%2Fapi%2Fnext.js)
 
 ## Dev community 
-![์aomwara's github stats](https://github-readme-stats.vercel.app/api?username=aomwara)
+![Aomwara's GitHub stats](https://github-readme-stats.vercel.app/api?username=aomwara&show_icons=true&theme=radical)
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
