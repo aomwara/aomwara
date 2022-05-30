@@ -13,4 +13,4 @@
 ## Dev community 
 ![Aomwara's GitHub stats](https://github-readme-stats.vercel.app/api?username=aomwara&show_icons=true&theme=radical)
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/aomwara/aomwara/output/github-contribution-grid-snake.svg)
