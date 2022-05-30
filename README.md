@@ -1,4 +1,6 @@
 ## About Me
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aomwara&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 - 😎 Waranat Suttikarn (Aom Wara)
 - 🚀 Software Engineer @ SCB10X 
 
